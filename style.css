@@ -1,0 +1,67 @@
+#header_parent{
+    width:1920px;
+    display : flex;
+    background-color: black;
+    justify-content : center;
+    padding-top : 30px;
+    padding-bottom: 30px;
+}
+
+#logo{
+    padding-right : 100px;
+}
+
+#first{
+    color:white;
+    font-size: 25px;
+    padding-right : 100px;
+}
+
+#second{
+    color:white;
+    font-size: 25px;
+    padding-right : 100px;
+}
+
+#third{
+    color:white;
+    font-size: 25px;
+}
+
+#main-title{
+    text-align: center;
+}
+#main {
+    text-align: center;
+}
+
+.img{
+    position:relative;
+}
+
+.main_image{
+    position:relative;
+}
+.main_title{
+    position: absolute;
+    top:20%;
+    left:40%;
+    color:white;
+}
+
+
+#parent{
+    display:flex
+}
+#mutsa{
+    color : orange;
+}
+
+.main_content{
+   position:absolute;
+   top: 35%;
+   left: 15%;
+   color:white;
+   text-align:center;
+   line-height : 200%;
+}
